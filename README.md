@@ -2,15 +2,6 @@
 
 [← Voltar à Trilha de Airflow](https://github.com/joycequoos/Apache_Airflow./blob/main/README.md)
 
-<!--
-  Comentário: assim como no README de Parâmetros, este é uma lista de
-  referência, não um tutorial passo a passo — por isso organizei por
-  FUNÇÃO em vez de ordem cronológica: operadores de execução genérica →
-  integração/notificação → sensores e organização. O original tinha só
-  uma linha de definição por operador, sem exemplo de import ou uso —
-  adicionei um trecho de código para cada um.
--->
-
 Um **Operator** define *o que* uma task faz dentro de uma DAG. O Airflow já vem com uma boa variedade de operadores prontos — abaixo, os principais, organizados por função.
 
 ---
